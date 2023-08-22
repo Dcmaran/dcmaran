@@ -1,4 +1,4 @@
-# Hey! I'm Diogo Maranhão 👨‍💻
+# Hey! I'm Diogo Costa 👨‍💻
 
 - 📘 Computer Science Undergraduate at [CESAR School](http://www.cesar.school)
 - 🌐 Actively seeking knowledge in the area to build a career as a developer.
